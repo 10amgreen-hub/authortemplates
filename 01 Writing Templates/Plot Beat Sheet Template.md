@@ -37,9 +37,10 @@ Someone (often not the protagonist) says or shows what the story is *really* abo
 Introduce the A Story, key cast, and what is missing in the protagonist's life. Flaws on display:
 
 | Scene / beat | What we learn | Flaw or want shown |
-|---|---|---|
-|  |  |  |
-|  |  |  |
+| ------------ | ------------- | ------------------ |
+|              |               |                    |
+|              |               |                    |
+|              |               |                    |
 
 ### Catalyst / Inciting Incident (~11%) — single scene
 The ordinary world breaks. Call to adventure:
