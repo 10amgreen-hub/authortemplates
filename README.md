@@ -2,9 +2,10 @@
 
 A collection of Obsidian templates for fiction writers, organized in the order most projects need them:
 
-1. **Writing** — ideation, premise, characters, antagonist, settings, Save the Cat–style beats, scene cards, goals
-2. **Editing** — beta worksheets, reader's reports, manuscript feedback
-3. **Marketing** — reviews, interviews, content ideas, market research, publishing checklist
+1. **Writing templates** — ideation, premise, characters, antagonist, settings, Save the Cat–style beats, scene cards, goals
+2. **Manuscript** — where you actually draft chaptered prose
+3. **Editing** — beta worksheets, reader's reports, manuscript feedback
+4. **Marketing** — reviews, interviews, content ideas, market research, publishing checklist
 
 The layout borrows from Scrivener's binder thinking (project dashboard, corkboard-style scene cards, character/setting codex) and pacing ideas familiar from Save the Cat, without requiring either tool.
 
@@ -26,16 +27,17 @@ git clone https://github.com/10amgreen-hub/authortemplates.git
 
 1. Open Obsidian.
 2. Choose **Open folder as vault**.
-3. Select the unzipped folder — the one that contains `Home.md`.
-4. Open `Home.md` and start from there.
+3. Select the unzipped folder — the one that contains `00 Home` and `README.md`.
+4. Open `00 Home/Home.md` and start from there.
 
 ### 3. Use the templates
 
 1. Duplicate `Projects/Project Dashboard Template.md` and rename it for your book.
-2. Duplicate any template from `01 Writing Templates`, `02 Editing Templates`, or `03 Marketing Templates` into that project (or a subfolder).
-3. Fill in the copy — leave the originals blank so they stay reusable.
+2. Plan in `01 Writing Templates`.
+3. Draft in `02 Manuscript` — duplicate `Chapter Template.md` into a book folder / `Chapters/` subfolder.
+4. Use `03 Editing Templates` and `04 Marketing Templates` when you reach those stages.
 
-**Optional:** Install the community plugin **Templater**, then set its template folder to `01 Writing Templates` so you can insert templates from the command palette.
+**Optional:** Install the community plugin **Templater** (recommended in this vault’s plugin list), then set its template folder to `01 Writing Templates` or `02 Manuscript`.
 
 No special theme or paid plugins are required.
 
@@ -43,14 +45,40 @@ No special theme or paid plugins are required.
 
 ```text
 StoryBoard/
-  Home.md
-  README.md
-  00 Inbox/
-  01 Writing Templates/
-  02 Editing Templates/
-  03 Marketing Templates/
-  Projects/
+  00 Home/                   # Home note (sorted to the top)
+  00 Inbox/                  # Quick capture
+  01 Writing Templates/      # Planning tools
+  02 Manuscript/             # Full chapter drafts live here
+    Chapters/                # Optional shared/example chapter folder
+    Chapter Template.md
+    Manuscript Home Template.md
+    Manuscript Guide.md
+  03 Editing Templates/
+  04 Marketing Templates/
+  Projects/                  # Per-book dashboards
 ```
+
+## Drafting chapters
+
+1. Read `02 Manuscript/Manuscript Guide.md`.
+2. Duplicate `Manuscript Home Template.md` for your book.
+3. Duplicate `Chapter Template.md` once per chapter (suggested names: `Chapter 01 - Title.md`).
+4. Keep planning notes in `01 Writing Templates`; keep prose in `02 Manuscript`.
+
+## Community plugins
+
+This repo **recommends** plugins but does **not** ship the plugin files themselves.
+
+- Included: `.obsidian/community-plugins.json` lists **Templater**
+- After opening the vault, Obsidian will prompt you to install recommended community plugins (or install **Templater** manually from Settings → Community plugins)
+
+**Why not bundle plugins in GitHub?**
+- Plugin folders are large and update often
+- Friends get fresher installs from Obsidian’s plugin browser
+- Avoids shipping machine-specific plugin settings
+- Keeps the repo easy to download and review
+
+If you ever want a fully turnkey offline vault, plugins *can* be committed under `.obsidian/plugins/`, but that usually complicates sharing more than it helps.
 
 ## Writing templates
 
@@ -68,10 +96,6 @@ StoryBoard/
 | Revision Goals | One focused revision pass |
 | Writing Goals | Monthly / session / stage tracker |
 | Craft Notes | Short attributed craft reminders |
-
-## Editing and marketing
-
-Editing includes a full beta-reader worksheet. Marketing stays lean on purpose and includes a publishing-phase checklist.
 
 ## Credits / inspiration
 

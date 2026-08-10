@@ -95,7 +95,7 @@ Write 75–150 words you would be comfortable posting.
 ## Workflow
 
 - [ ] Capture revision goals in [[01 Writing Templates/Revision Goals Template|Revision Goals]] if this is your own manuscript
-- [ ] Draft a public review from [[03 Marketing Templates/Book Review Template|Book Review Template]] if sharing publicly
+- [ ] Draft a public review from [[04 Marketing Templates/Book Review Template|Book Review Template]] if sharing publicly
 - [ ] Archive private spoilers before sharing any excerpt
 
 ## Links
