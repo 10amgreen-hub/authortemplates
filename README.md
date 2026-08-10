@@ -8,14 +8,36 @@ A collection of Obsidian templates for fiction writers, organized in the order m
 
 The layout borrows from Scrivener's binder thinking (project dashboard, corkboard-style scene cards, character/setting codex) and pacing ideas familiar from Save the Cat, without requiring either tool.
 
-## Open in Obsidian
+## How to download and use this in Obsidian
 
-1. Clone or download this repository.
-2. In Obsidian: **Open folder as vault** → select the repo root (the folder that contains `Home.md`).
-3. Start at `Home.md`.
-4. Duplicate `Projects/Project Dashboard Template.md` for each manuscript.
+### 1. Get the files
 
-Optional: install the **Templater** community plugin and point it at `01 Writing Templates`.
+1. Open this repository on GitHub.
+2. Click the green **Code** button → **Download ZIP**.
+3. Unzip it somewhere easy to find (for example, `Documents\Obsidian\StoryBoard`).
+
+If you prefer git:
+
+```bash
+git clone https://github.com/10amgreen-hub/authortemplates.git
+```
+
+### 2. Open it as an Obsidian vault
+
+1. Open Obsidian.
+2. Choose **Open folder as vault**.
+3. Select the unzipped folder — the one that contains `Home.md`.
+4. Open `Home.md` and start from there.
+
+### 3. Use the templates
+
+1. Duplicate `Projects/Project Dashboard Template.md` and rename it for your book.
+2. Duplicate any template from `01 Writing Templates`, `02 Editing Templates`, or `03 Marketing Templates` into that project (or a subfolder).
+3. Fill in the copy — leave the originals blank so they stay reusable.
+
+**Optional:** Install the community plugin **Templater**, then set its template folder to `01 Writing Templates` so you can insert templates from the command palette.
+
+No special theme or paid plugins are required.
 
 ## Folder structure
 
