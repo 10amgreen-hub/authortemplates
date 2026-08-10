@@ -2,6 +2,7 @@
 title:
 project:
 chapter:
+beat:
 status: outline
 pov:
 word_target:
@@ -13,6 +14,12 @@ tags:
 # {{title}} — Scene Card
 
 > Corkboard-style card: one scene, one purpose. Expand into draft prose when ready.
+
+## Placement
+
+- **Story beat** (Setup, Catalyst, Fun & Games, Midpoint, All Is Lost, Finale step…):
+- **Chapter:**
+- **Approximate % / position:**
 
 ## Purpose
 
@@ -41,6 +48,11 @@ What must change by the end of this scene? (information, relationship, stakes, d
 
 - **Starts at:**
 - **Ends at:**
+- **Theme echo** (if any):
+
+## Misdirection / reveal (optional)
+
+What does the reader think is happening — and what is actually happening?
 
 ## Notes / research to check
 
@@ -57,4 +69,5 @@ What must change by the end of this scene? (information, relationship, stakes, d
 
 - Project: [[]]
 - Chapter: [[]]
+- Beat sheet: [[]]
 - Characters: [[]]

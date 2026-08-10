@@ -2,11 +2,11 @@
 
 A collection of Obsidian templates for fiction writers, organized in the order most projects need them:
 
-1. **Writing** — premise, characters, settings, scene cards, outlines, research, revision goals
-2. **Editing** — reader's reports and manuscript feedback
-3. **Marketing** — reviews, interviews, content ideas, and market research
+1. **Writing** — ideation, premise, characters, antagonist, settings, Save the Cat–style beats, scene cards, goals
+2. **Editing** — beta worksheets, reader's reports, manuscript feedback
+3. **Marketing** — reviews, interviews, content ideas, market research, publishing checklist
 
-The layout borrows a little from Scrivener's binder thinking (project dashboard, corkboard-style scene cards, character/setting codex) without requiring Scrivener.
+The layout borrows from Scrivener's binder thinking (project dashboard, corkboard-style scene cards, character/setting codex) and pacing ideas familiar from Save the Cat, without requiring either tool.
 
 ## Open in Obsidian
 
@@ -15,7 +15,7 @@ The layout borrows a little from Scrivener's binder thinking (project dashboard,
 3. Start at `Home.md`.
 4. Duplicate `Projects/Project Dashboard Template.md` for each manuscript.
 
-Optional: install the **Templater** community plugin and point it at `01 Writing Templates` (or whichever lane you use most).
+Optional: install the **Templater** community plugin and point it at `01 Writing Templates`.
 
 ## Folder structure
 
@@ -23,29 +23,37 @@ Optional: install the **Templater** community plugin and point it at `01 Writing
 StoryBoard/
   Home.md
   README.md
-  00 Inbox/                  # Quick capture
-  01 Writing Templates/      # Drafting & planning
-  02 Editing Templates/      # Feedback & editorial notes
-  03 Marketing Templates/    # Public-facing & market work
-  Projects/                  # Per-manuscript dashboards
+  00 Inbox/
+  01 Writing Templates/
+  02 Editing Templates/
+  03 Marketing Templates/
+  Projects/
 ```
 
-## Writing templates (starter set)
+## Writing templates
 
 | Template | Purpose |
 |---|---|
-| Project Brief | Logline, premise, stakes, draft goals |
+| Idea to Plot | Brainstorm theme, genre, conflict, rough acts |
+| Project Brief | Logline, premise, stakes, readiness check |
 | Character Profile | Want/need, lie/truth, arc, voice |
-| Setting | Sensory place notes tied to story function |
-| Scene Card | Corkboard card: goal → conflict → outcome |
+| Antagonist | Opposition with humanity and escalation plan |
+| Setting | Place, period, sensory detail, dose control |
+| Plot Beat Sheet | Full Save the Cat–style beats + five-point finale |
 | Chapter Outline | Chapter job + scene list |
-| Plot Beat Sheet | Three-act + optional romance lane |
+| Scene Card | Corkboard card: goal → conflict → outcome |
 | Research Note | Facts with a clear on-page use |
 | Revision Goals | One focused revision pass |
+| Writing Goals | Monthly / session / stage tracker |
+| Craft Notes | Short attributed craft reminders |
 
 ## Editing and marketing
 
-Editing and marketing lanes start lean on purpose. Expect more guide-style templates here over time.
+Editing includes a full beta-reader worksheet. Marketing stays lean on purpose and includes a publishing-phase checklist.
+
+## Credits / inspiration
+
+Templates are original documents for this vault. Structure and prompts were informed by common craft tools and personal study notes (including Save the Cat–style beat language and selected Alan Moore course quotations, attributed in `Craft Notes`). Source PDFs and copyrighted workbooks are **not** redistributed in this repository.
 
 ## License / sharing
 

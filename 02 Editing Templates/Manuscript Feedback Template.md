@@ -54,7 +54,12 @@ Note patterns, not every typo:
 2. 
 3. 
 
+## Prefer a guided beta pass?
+
+Send readers [[02 Editing Templates/Beta Reader Worksheet|Beta Reader Worksheet]] for chapter-by-chapter prompts (plot, characters, romance, world, ending).
+
 ## Links
 
 - Project: [[]]
 - Revision goals: [[]]
+- Beta worksheet: [[]]

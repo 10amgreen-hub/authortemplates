@@ -2,6 +2,7 @@
 name:
 project:
 type: location
+period:
 tags:
   - writing
   - setting
@@ -9,9 +10,21 @@ tags:
 
 # {{name}} — Setting
 
+> [!quote] Craft note (Alan Moore)
+> You will have to learn about… landscapes, how to present place and period… You are simply crafting the shape of the story to leave an impression in the mind of the reader.
+
 ## Role in the story
 
 Why does this place matter? What can only happen here?
+
+## Place and period
+
+- **Where:**
+- **When / period:**
+- **Who controls or belongs here:**
+- **Rules of the place** (social, magical, legal, economic):
+- **Hidden corners / secrets:**
+- **How history still presses on the present:**
 
 ## Sensory inventory
 
@@ -21,16 +34,19 @@ Why does this place matter? What can only happen here?
 - **Touch / temperature:**
 - **Taste (if relevant):**
 
-## Practical details
+## Atmosphere
 
-- **Where / when:**
-- **Who controls or belongs here:**
-- **Rules of the place (social, magical, legal):**
-- **Hidden corners / secrets:**
+- Mood this setting should create:
+- Symbols or recurring motifs tied to this place:
+- How the protagonist's emotional state changes the way the place is described:
 
-## Mood and symbolism
+## World-building dose check
 
-What feeling should this setting create for the reader?
+Rate for scenes set here (1 = sparse, 10 = dense). Aim for clarity without info-dump:
+
+- Intended density:
+- What the reader must know on first visit:
+- What can wait:
 
 ## Scenes that belong here
 
@@ -40,3 +56,4 @@ What feeling should this setting create for the reader?
 
 - Project: [[]]
 - Related scenes: [[]]
+- Research: [[]]
