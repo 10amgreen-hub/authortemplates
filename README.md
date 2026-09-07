@@ -11,11 +11,21 @@ The layout borrows from Scrivener's binder thinking (project dashboard, corkboar
 
 ## How to download and use this in Obsidian
 
+If you don't have Obsidian yet, you can download it here: https://obsidian.md/download
+
+Try to pick a place that is as far up on the drive ladder as it can go. For example, I've got mine saved as "C:\obsidian," to keep it from being saved on a cloud and causing file sync conflicts. This helps prevents file loss!
+
+If you're on mobile, try and put Obsidian in its own folder on your device, as the .MD documents tend to just free-ball it and can accidentally get deleted (I have learned this the hard way) if you aren't mindful. 
+
+You can also back it up to GitHub later, if you want to be extra careful. 
+
+Now, to install the template:
+
 ### 1. Get the files
 
 1. Open this repository on GitHub.
 2. Click the green **Code** button → **Download ZIP**.
-3. Unzip it somewhere easy to find (for example, `Documents\Obsidian\StoryBoard`).
+3. Unzip it somewhere easy to find within your Obsidian folder, aka your Vault (for example, `Documents\Obsidian\StoryBoard`).
 
 If you prefer git:
 
